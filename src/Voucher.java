@@ -15,7 +15,7 @@ public class Voucher implements MetodeBayar {
     @Override
     public int totalBayar(int totalBelanja) {
 
-        // Pembayaran tidak boleh menghasilkan nilai negatif.
+        // Mencetak rincian buku dan total pembayaran.
         return Math.max(0, totalBelanja - nilai);
     }
 }

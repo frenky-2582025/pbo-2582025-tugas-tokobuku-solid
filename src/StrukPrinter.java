@@ -1,3 +1,4 @@
+// Mencetak rincian buku dan total pembayaran.
 public class StrukPrinter {
 
     public void cetakKeranjang(String judul, Keranjang keranjang) {
