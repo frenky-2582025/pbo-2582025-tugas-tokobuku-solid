@@ -1,4 +1,3 @@
-// Mengurangi total belanja dengan nilai voucher.
 return totalBelanja - nilai;
 public class Voucher implements MetodeBayar {
     private int nilai;

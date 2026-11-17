@@ -1,4 +1,3 @@
-// Kontrak: hasil totalBayar tidak pernah negatif.
 public interface MetodeBayar {
 
     String nama();
